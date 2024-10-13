@@ -1,7 +1,10 @@
+import ProductsPage from "@/components/ProductsSection"
 
 const Products = () => {
   return (
-    <div></div>
+    <div>
+      <ProductsPage/>
+    </div>
   )
 }
 
