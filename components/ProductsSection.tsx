@@ -11,7 +11,7 @@ import Products from "../products";
 
 const ProductsSection = () => {
   return (
-    <div className=" w-full pb-20 bg-primary">
+    <div className=" w-full bg-primary pt-[80px]">
       <div className="container m-auto flex flex-col justify-between items-center leading-[10px]">
         <Head text="Products" />
         <p className="text-black font-[500] text-[17px] pb-10">

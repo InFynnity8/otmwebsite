@@ -4,7 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 const ContactSection = () => {
   return (
     <div className="bg-primary">
-      <div className="container m-auto flex flex-col justify-center items-center py-2">
+      <div className="container m-auto flex flex-col justify-center items-center py-2 pt-[80px]">
         <Head text="Contact Us" />
         <p className="text-[16px] w-full mb-3 xl:mb-0 xl:w-[600px] text-center text-black">
           Ready to elevate your style? Contact us today and get your custom

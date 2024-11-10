@@ -3,7 +3,7 @@ import { FaCheck } from "react-icons/fa6";
 
 const AboutSection = () => {
   return (
-    <div className="container m-auto flex flex-col">
+    <div className="container m-auto flex flex-col pt-[80px]">
       <Head text="About Us" />
       <div className="flex justify-between items-center my-10 pb-10 flex-col xl:flex-row">
         <div className="xl:border-r-[1px] border-black xl:h-[350px] flex justify-center items-center font-poppins text-[22px] w-full xl:w-[56%] xl:pr-10 xl:pt-5">
