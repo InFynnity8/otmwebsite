@@ -5,7 +5,7 @@ import Image from "next/image"
 
 const Header = () => {
   return (
-    <header className=" fixed top-0 w-full bg-white">
+    <header className=" fixed top-0 w-full bg-transparent" style={{backdropFilter: 'blur(20px)'}}>
       <div className="container mx-auto flex justify-between items-center ">
         {/* logo */}
         <Link href="/" className="flex justify-center items-center">
